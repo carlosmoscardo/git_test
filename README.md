@@ -1,2 +1,2 @@
 # Git Test
-"Hello Odin!"
+Hello, Odin! This is my first repository where I am testing my git skills.
